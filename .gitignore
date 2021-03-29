@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 *.Rproj
-*.html
 lecture/libs/
 notes/
+
+*introduction.html
